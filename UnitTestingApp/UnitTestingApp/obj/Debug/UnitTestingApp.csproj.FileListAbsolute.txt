@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\bin\Debug\UnitTestingApp.exe.config
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\bin\Debug\UnitTestingApp.exe
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\bin\Debug\UnitTestingApp.pdb
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.exe
+C:\Users\rathia\source\repos\UnitTestingApp\UnitTestingApp\obj\Debug\UnitTestingApp.pdb

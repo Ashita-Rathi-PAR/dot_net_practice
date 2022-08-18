@@ -1,0 +1,15 @@
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\bin\Debug\net6.0\AsynchronousProgramminng.exe
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\bin\Debug\net6.0\AsynchronousProgramminng.deps.json
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\bin\Debug\net6.0\AsynchronousProgramminng.runtimeconfig.json
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\bin\Debug\net6.0\AsynchronousProgramminng.dll
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\bin\Debug\net6.0\AsynchronousProgramminng.pdb
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.AssemblyInfoInputs.cache
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.AssemblyInfo.cs
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.dll
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\refint\AsynchronousProgramminng.dll
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.pdb
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\AsynchronousProgramminng.genruntimeconfig.cache
+C:\Users\rathia\source\repos\AsynchronousProgramminng\AsynchronousProgramminng\obj\Debug\net6.0\ref\AsynchronousProgramminng.dll
