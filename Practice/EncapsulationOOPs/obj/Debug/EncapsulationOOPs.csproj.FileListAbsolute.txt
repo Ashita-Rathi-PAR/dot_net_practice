@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\bin\Debug\EncapsulationOOPs.exe.config
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\bin\Debug\EncapsulationOOPs.exe
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\bin\Debug\EncapsulationOOPs.pdb
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.exe
+C:\Users\rathia\source\repos\Practice\EncapsulationOOPs\obj\Debug\EncapsulationOOPs.pdb

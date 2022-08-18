@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\bin\Debug\InheritanceApplication.exe.config
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\bin\Debug\InheritanceApplication.exe
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\bin\Debug\InheritanceApplication.pdb
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\obj\Debug\InheritanceApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\obj\Debug\InheritanceApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\obj\Debug\InheritanceApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\obj\Debug\InheritanceApplication.exe
+C:\Users\rathia\source\repos\Practice\InheritanceApplication\obj\Debug\InheritanceApplication.pdb

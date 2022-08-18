@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\bin\Debug\ThreadingApplication.exe.config
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\bin\Debug\ThreadingApplication.exe
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\bin\Debug\ThreadingApplication.pdb
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\obj\Debug\ThreadingApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\obj\Debug\ThreadingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\obj\Debug\ThreadingApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\obj\Debug\ThreadingApplication.exe
+C:\Users\rathia\source\repos\Practice\ThreadingApplication\obj\Debug\ThreadingApplication.pdb

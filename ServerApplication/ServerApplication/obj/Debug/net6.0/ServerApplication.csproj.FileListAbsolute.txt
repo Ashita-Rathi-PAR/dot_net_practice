@@ -1,0 +1,15 @@
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\bin\Debug\net6.0\ServerApplication.exe
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\bin\Debug\net6.0\ServerApplication.deps.json
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\bin\Debug\net6.0\ServerApplication.runtimeconfig.json
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\bin\Debug\net6.0\ServerApplication.dll
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\bin\Debug\net6.0\ServerApplication.pdb
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.AssemblyInfoInputs.cache
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.AssemblyInfo.cs
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.dll
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\refint\ServerApplication.dll
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.pdb
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ServerApplication.genruntimeconfig.cache
+C:\Users\rathia\source\repos\ServerApplication\ServerApplication\obj\Debug\net6.0\ref\ServerApplication.dll

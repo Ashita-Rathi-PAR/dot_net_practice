@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\RegexPractice\bin\Debug\RegexPractice.exe.config
+C:\Users\rathia\source\repos\Practice\RegexPractice\bin\Debug\RegexPractice.exe
+C:\Users\rathia\source\repos\Practice\RegexPractice\bin\Debug\RegexPractice.pdb
+C:\Users\rathia\source\repos\Practice\RegexPractice\obj\Debug\RegexPractice.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\RegexPractice\obj\Debug\RegexPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\RegexPractice\obj\Debug\RegexPractice.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\RegexPractice\obj\Debug\RegexPractice.exe
+C:\Users\rathia\source\repos\Practice\RegexPractice\obj\Debug\RegexPractice.pdb

@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\IndexersApplication\bin\Debug\IndexersApplication.exe.config
+C:\Users\rathia\source\repos\Practice\IndexersApplication\bin\Debug\IndexersApplication.exe
+C:\Users\rathia\source\repos\Practice\IndexersApplication\bin\Debug\IndexersApplication.pdb
+C:\Users\rathia\source\repos\Practice\IndexersApplication\obj\Debug\IndexersApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\IndexersApplication\obj\Debug\IndexersApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\IndexersApplication\obj\Debug\IndexersApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\IndexersApplication\obj\Debug\IndexersApplication.exe
+C:\Users\rathia\source\repos\Practice\IndexersApplication\obj\Debug\IndexersApplication.pdb

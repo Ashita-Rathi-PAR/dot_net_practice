@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\bin\Debug\AnonymousTypesApplication.exe.config
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\bin\Debug\AnonymousTypesApplication.exe
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\bin\Debug\AnonymousTypesApplication.pdb
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\obj\Debug\AnonymousTypesApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\obj\Debug\AnonymousTypesApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\obj\Debug\AnonymousTypesApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\obj\Debug\AnonymousTypesApplication.exe
+C:\Users\rathia\source\repos\Practice\AnonymousTypesApplication\obj\Debug\AnonymousTypesApplication.pdb

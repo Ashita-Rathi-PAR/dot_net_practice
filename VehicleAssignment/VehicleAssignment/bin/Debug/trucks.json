@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "model": "Blazo",
+    "company": "Mahindra",
+    "color": "White"
+  },
+  {
+    "id": 2,
+    "model": "T.6 Ultra",
+    "company": "Tata",
+    "color": "Blue"
+  },
+  {
+    "id": 3,
+    "model": "2823C",
+    "company": "BharatBenz",
+    "color": "Red"
+  },
+  {
+    "id": 4,
+    "model": "Jayo",
+    "company": "Mahindra",
+    "color": "Black"
+  }
+]

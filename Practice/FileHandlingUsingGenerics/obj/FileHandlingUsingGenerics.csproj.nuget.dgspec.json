@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rathia\\source\\repos\\Practice\\FileHandlingUsingGenerics\\FileHandlingUsingGenerics.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rathia\\source\\repos\\Practice\\FileHandlingUsingGenerics\\FileHandlingUsingGenerics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rathia\\source\\repos\\Practice\\FileHandlingUsingGenerics\\FileHandlingUsingGenerics.csproj",
+        "projectName": "FileHandlingUsingGenerics",
+        "projectPath": "C:\\Users\\rathia\\source\\repos\\Practice\\FileHandlingUsingGenerics\\FileHandlingUsingGenerics.csproj",
+        "packagesPath": "C:\\Users\\rathia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rathia\\source\\repos\\Practice\\FileHandlingUsingGenerics\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rathia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "ChoETL": {
+              "target": "Package",
+              "version": "[1.2.1.48, )"
+            },
+            "ChoETL.JSON": {
+              "target": "Package",
+              "version": "[1.2.1.48, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

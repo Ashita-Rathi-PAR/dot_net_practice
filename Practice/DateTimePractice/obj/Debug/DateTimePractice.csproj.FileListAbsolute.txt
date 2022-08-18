@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\DateTimePractice\bin\Debug\DateTimePractice.exe.config
+C:\Users\rathia\source\repos\Practice\DateTimePractice\bin\Debug\DateTimePractice.exe
+C:\Users\rathia\source\repos\Practice\DateTimePractice\bin\Debug\DateTimePractice.pdb
+C:\Users\rathia\source\repos\Practice\DateTimePractice\obj\Debug\DateTimePractice.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\DateTimePractice\obj\Debug\DateTimePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\DateTimePractice\obj\Debug\DateTimePractice.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\DateTimePractice\obj\Debug\DateTimePractice.exe
+C:\Users\rathia\source\repos\Practice\DateTimePractice\obj\Debug\DateTimePractice.pdb

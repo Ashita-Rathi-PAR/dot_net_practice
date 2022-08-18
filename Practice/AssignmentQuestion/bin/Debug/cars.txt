@@ -1,0 +1,4 @@
+numberOfWheels:4/modelName:boleno/powerSource:petrol/color:black/costWithGSTIncluded:202.18/isDualAirBags:True/isAirConditioning:True/isPowerWindows:True/isMusicSystem:True/isCentralDoorLock:True/isSeatBelts:True
+numberOfWheels:4/modelName:suv/powerSource:petrol/color:black/costWithGSTIncluded:202.18/isDualAirBags:True/isAirConditioning:True/isPowerWindows:True/isMusicSystem:True/isCentralDoorLock:True/isSeatBelts:True
+numberOfWheels:4/modelName:ferari/powerSource:diesel/color:blue/costWithGSTIncluded:505.28/isDualAirBags:True/isAirConditioning:False/isPowerWindows:False/isMusicSystem:True/isCentralDoorLock:True/isSeatBelts:False
+numberOfWheels:4/modelName:alto/powerSource:petrol/color:yellow/costWithGSTIncluded:565.88/isDualAirBags:True/isAirConditioning:True/isPowerWindows:True/isMusicSystem:True/isCentralDoorLock:True/isSeatBelts:True

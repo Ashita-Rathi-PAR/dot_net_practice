@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\SingletonClass\bin\Debug\SingletonClass.exe.config
+C:\Users\rathia\source\repos\Practice\SingletonClass\bin\Debug\SingletonClass.exe
+C:\Users\rathia\source\repos\Practice\SingletonClass\bin\Debug\SingletonClass.pdb
+C:\Users\rathia\source\repos\Practice\SingletonClass\obj\Debug\SingletonClass.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\SingletonClass\obj\Debug\SingletonClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\SingletonClass\obj\Debug\SingletonClass.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\SingletonClass\obj\Debug\SingletonClass.exe
+C:\Users\rathia\source\repos\Practice\SingletonClass\obj\Debug\SingletonClass.pdb

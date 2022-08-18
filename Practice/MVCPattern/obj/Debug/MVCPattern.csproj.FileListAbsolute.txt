@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\MVCPattern\obj\Debug\MVCPattern.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\MVCPattern\obj\Debug\MVCPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\MVCPattern\obj\Debug\MVCPattern.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\MVCPattern\bin\Debug\MVCPattern.exe.config
+C:\Users\rathia\source\repos\Practice\MVCPattern\bin\Debug\MVCPattern.exe
+C:\Users\rathia\source\repos\Practice\MVCPattern\bin\Debug\MVCPattern.pdb
+C:\Users\rathia\source\repos\Practice\MVCPattern\obj\Debug\MVCPattern.exe
+C:\Users\rathia\source\repos\Practice\MVCPattern\obj\Debug\MVCPattern.pdb

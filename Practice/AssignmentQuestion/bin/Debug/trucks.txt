@@ -1,0 +1,1 @@
+numberOfWheels:6/modelName:Mahindra Truxo/powerSource:Petrol/color:Black/costWithGSTIncluded:808.28/typeOfTruck:Flatbedded

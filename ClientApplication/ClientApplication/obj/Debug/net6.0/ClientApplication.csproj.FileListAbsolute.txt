@@ -1,0 +1,15 @@
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\bin\Debug\net6.0\ClientApplication.exe
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\bin\Debug\net6.0\ClientApplication.deps.json
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\bin\Debug\net6.0\ClientApplication.runtimeconfig.json
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\bin\Debug\net6.0\ClientApplication.dll
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\bin\Debug\net6.0\ClientApplication.pdb
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.AssemblyInfoInputs.cache
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.AssemblyInfo.cs
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.dll
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\refint\ClientApplication.dll
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.pdb
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ClientApplication.genruntimeconfig.cache
+C:\Users\rathia\source\repos\ClientApplication\ClientApplication\obj\Debug\net6.0\ref\ClientApplication.dll

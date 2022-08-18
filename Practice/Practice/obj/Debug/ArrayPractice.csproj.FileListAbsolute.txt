@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\rathia\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\rathia\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\rathia\source\repos\Practice\Practice\obj\Debug\ArrayPractice.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\Practice\obj\Debug\ArrayPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\Practice\obj\Debug\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\rathia\source\repos\Practice\Practice\obj\Debug\Practice.pdb

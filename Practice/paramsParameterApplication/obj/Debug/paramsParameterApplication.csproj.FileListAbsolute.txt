@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\bin\Debug\paramsParameterApplication.exe.config
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\bin\Debug\paramsParameterApplication.exe
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\bin\Debug\paramsParameterApplication.pdb
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\obj\Debug\paramsParameterApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\obj\Debug\paramsParameterApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\obj\Debug\paramsParameterApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\obj\Debug\paramsParameterApplication.exe
+C:\Users\rathia\source\repos\Practice\paramsParameterApplication\obj\Debug\paramsParameterApplication.pdb

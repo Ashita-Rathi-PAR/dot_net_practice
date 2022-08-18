@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\bin\Debug\ExceptionHandlingApplication.exe.config
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\bin\Debug\ExceptionHandlingApplication.exe
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\bin\Debug\ExceptionHandlingApplication.pdb
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\obj\Debug\ExceptionHandlingApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\obj\Debug\ExceptionHandlingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\obj\Debug\ExceptionHandlingApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\obj\Debug\ExceptionHandlingApplication.exe
+C:\Users\rathia\source\repos\Practice\ExceptionHandlingApplication\obj\Debug\ExceptionHandlingApplication.pdb

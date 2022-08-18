@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\bin\Debug\AbstractionApplication.exe.config
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\bin\Debug\AbstractionApplication.exe
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\bin\Debug\AbstractionApplication.pdb
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\obj\Debug\AbstractionApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\obj\Debug\AbstractionApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\obj\Debug\AbstractionApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\obj\Debug\AbstractionApplication.exe
+C:\Users\rathia\source\repos\Practice\AbstractionApplication\obj\Debug\AbstractionApplication.pdb

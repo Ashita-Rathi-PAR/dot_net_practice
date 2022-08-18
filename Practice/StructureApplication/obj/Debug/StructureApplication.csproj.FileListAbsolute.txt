@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\StructureApplication\bin\Debug\StructureApplication.exe.config
+C:\Users\rathia\source\repos\Practice\StructureApplication\bin\Debug\StructureApplication.exe
+C:\Users\rathia\source\repos\Practice\StructureApplication\bin\Debug\StructureApplication.pdb
+C:\Users\rathia\source\repos\Practice\StructureApplication\obj\Debug\StructureApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\StructureApplication\obj\Debug\StructureApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\StructureApplication\obj\Debug\StructureApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\StructureApplication\obj\Debug\StructureApplication.exe
+C:\Users\rathia\source\repos\Practice\StructureApplication\obj\Debug\StructureApplication.pdb

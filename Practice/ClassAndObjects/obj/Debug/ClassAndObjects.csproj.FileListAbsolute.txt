@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+C:\Users\rathia\source\repos\Practice\ClassAndObjects\obj\Debug\ClassAndObjects.pdb
