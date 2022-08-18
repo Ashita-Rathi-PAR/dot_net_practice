@@ -1,0 +1,17 @@
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\obj\Debug\FileHandlingUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\obj\Debug\FileHandlingUsingGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\obj\Debug\FileHandlingUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\FileHandlingUsingGenerics.exe.config
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\FileHandlingUsingGenerics.exe
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\FileHandlingUsingGenerics.pdb
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\ChoETL.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\ChoETL.JSON.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\System.CodeDom.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\obj\Debug\FileHandlingUsingGenerics.csproj.CopyComplete
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\obj\Debug\FileHandlingUsingGenerics.exe
+C:\Users\rathia\source\repos\Practice\FileHandlingUsingGenerics\obj\Debug\FileHandlingUsingGenerics.pdb

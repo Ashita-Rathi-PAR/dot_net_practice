@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\DynamicType\bin\Debug\DynamicType.exe.config
+C:\Users\rathia\source\repos\Practice\DynamicType\bin\Debug\DynamicType.exe
+C:\Users\rathia\source\repos\Practice\DynamicType\bin\Debug\DynamicType.pdb
+C:\Users\rathia\source\repos\Practice\DynamicType\obj\Debug\DynamicType.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\DynamicType\obj\Debug\DynamicType.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\DynamicType\obj\Debug\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\DynamicType\obj\Debug\DynamicType.exe
+C:\Users\rathia\source\repos\Practice\DynamicType\obj\Debug\DynamicType.pdb

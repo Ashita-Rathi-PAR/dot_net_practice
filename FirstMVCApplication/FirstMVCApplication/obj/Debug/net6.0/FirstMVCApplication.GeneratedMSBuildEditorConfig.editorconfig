@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstMVCApplication
+build_property.RootNamespace = FirstMVCApplication
+build_property.ProjectDir = C:\Users\rathia\source\repos\FirstMVCApplication\FirstMVCApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rathia\source\repos\FirstMVCApplication\FirstMVCApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Girls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lybHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Girls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lybHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Girls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lybHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Girls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lybHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Girls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lybHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/HelloWorld/Dog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxEb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rathia/source/repos/FirstMVCApplication/FirstMVCApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pjsm2lu5ge

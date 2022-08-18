@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "AshitaMVCApp"; //<title>
+}
+
+<h2>Ashita's First MVC App</h2>
+
+<p>Hello from Ashita!!</p>
+
+@{
+   ViewBag.Title = "Countries List";
+}
+<h2>Countries List</h2>
+<ul>
+@foreach(string country in (List<string>)ViewData["Countries"]){
+   <li>@country</li>
+}
+</ul>

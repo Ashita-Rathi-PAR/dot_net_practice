@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "model": "Baleno",
+    "company": "Maruti",
+    "color": "Blue"
+  },
+  {
+    "id": 2,
+    "model": "Creta",
+    "company": "Hyundai",
+    "color": "White"
+  },
+  {
+    "id": 3,
+    "model": "Nexon",
+    "company": "Tata",
+    "color": "Red"
+  },
+  {
+    "id": 4,
+    "model": "XUV700",
+    "company": "Mahindra",
+    "color": "Blue"
+  }
+]

@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\AggregationApplication\bin\Debug\AggregationApplication.exe.config
+C:\Users\rathia\source\repos\Practice\AggregationApplication\bin\Debug\AggregationApplication.exe
+C:\Users\rathia\source\repos\Practice\AggregationApplication\bin\Debug\AggregationApplication.pdb
+C:\Users\rathia\source\repos\Practice\AggregationApplication\obj\Debug\AggregationApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\AggregationApplication\obj\Debug\AggregationApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\AggregationApplication\obj\Debug\AggregationApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\AggregationApplication\obj\Debug\AggregationApplication.exe
+C:\Users\rathia\source\repos\Practice\AggregationApplication\obj\Debug\AggregationApplication.pdb

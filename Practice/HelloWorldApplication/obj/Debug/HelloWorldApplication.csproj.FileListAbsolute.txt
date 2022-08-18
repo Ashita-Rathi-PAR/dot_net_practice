@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\obj\Debug\HelloWorldApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\obj\Debug\HelloWorldApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\obj\Debug\HelloWorldApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+C:\Users\rathia\source\repos\Practice\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb

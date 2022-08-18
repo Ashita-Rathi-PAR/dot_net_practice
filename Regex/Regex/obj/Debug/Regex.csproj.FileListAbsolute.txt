@@ -1,0 +1,3 @@
+C:\Users\rathia\source\repos\Regex\Regex\obj\Debug\Regex.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Regex\Regex\obj\Debug\Regex.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Regex\Regex\obj\Debug\Regex.csproj.CoreCompileInputs.cache

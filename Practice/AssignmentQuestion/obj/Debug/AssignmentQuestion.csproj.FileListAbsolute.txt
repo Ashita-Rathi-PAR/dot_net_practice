@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\bin\Debug\AssignmentQuestion.exe.config
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\bin\Debug\AssignmentQuestion.exe
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\bin\Debug\AssignmentQuestion.pdb
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\obj\Debug\AssignmentQuestion.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\obj\Debug\AssignmentQuestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\obj\Debug\AssignmentQuestion.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\obj\Debug\AssignmentQuestion.exe
+C:\Users\rathia\source\repos\Practice\AssignmentQuestion\obj\Debug\AssignmentQuestion.pdb

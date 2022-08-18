@@ -1,0 +1,114 @@
+2022-08-16T16:57:38.2655877+05:30  [INF] Now listening on: "https://localhost:7201" (d826f4b8)
+2022-08-16T16:57:38.2718060+05:30  [INF] Now listening on: "http://localhost:5201" (d826f4b8)
+2022-08-16T16:57:38.2829750+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-16T16:57:38.2832019+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-16T16:57:38.2832647+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\SchoolApplication\SchoolApplication\" (b5d60022)
+2022-08-16T16:57:39.9535832+05:30 0HMJVF99JHS36:00000001 [INF] 
+
+Hello
+
+ (1a8a7fb3)
+2022-08-16T16:59:40.1959719+05:30  [INF] Now listening on: "https://localhost:7201" (d826f4b8)
+2022-08-16T16:59:40.2014782+05:30  [INF] Now listening on: "http://localhost:5201" (d826f4b8)
+2022-08-16T16:59:40.2117262+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-16T16:59:40.2120106+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-16T16:59:40.2120713+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\SchoolApplication\SchoolApplication\" (b5d60022)
+2022-08-16T16:59:41.2118076+05:30 0HMJVFADVUNF1:00000001 [INF] 
+
+Hello
+
+ (1a8a7fb3)
+2022-08-16T16:59:47.4512824+05:30 0HMJVFADVUNF1:00000007 [WRN] 
+
+Worker running at: 08/16/2022 11:29:47 +00:00 (0c8ec8e8)
+2022-08-16T16:59:48.4705970+05:30 0HMJVFADVUNF1:00000007 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T16:59:49.1286965+05:30 0HMJVFADVUNF1:00000007 [WRN] The query uses the 'Distinct' operator after applying an ordering. If there are any row limiting operation used before 'Distinct' and after ordering then ordering will be used for it. Ordering(s) will be erased after 'Distinct' and results afterwards would be unordered. (4fd26fa1)
+2022-08-16T16:59:50.7189863+05:30 0HMJVFADVUNF1:00000007 [INF] Executed DbCommand ("54"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T16:59:50.8326626+05:30 0HMJVFADVUNF1:00000007 [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T16:59:56.5296525+05:30 0HMJVFADVUNF1:0000000D [WRN] 
+
+Worker running at: 08/16/2022 11:29:56 +00:00 (0c8ec8e8)
+2022-08-16T16:59:56.5321662+05:30 0HMJVFADVUNF1:0000000D [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T16:59:56.5430565+05:30 0HMJVFADVUNF1:0000000D [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T16:59:56.5461408+05:30 0HMJVFADVUNF1:0000000D [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:00:33.5606208+05:30 0HMJVFADVUNF1:0000001F [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:00:33.7973380+05:30 0HMJVFADVUNF1:0000001F [INF] Executed DbCommand ("54"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (Size = 60), @p3='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Student] ([Class], [DateOfBirth], [Name], [Rating])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Student]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();" (0723d8ff)
+2022-08-16T17:00:33.8639862+05:30 0HMJVFADVUNF1:00000021 [WRN] 
+
+Worker running at: 08/16/2022 11:30:33 +00:00 (0c8ec8e8)
+2022-08-16T17:00:33.8649747+05:30 0HMJVFADVUNF1:00000021 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:00:33.8678014+05:30 0HMJVFADVUNF1:00000021 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:00:33.8690739+05:30 0HMJVFADVUNF1:00000021 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:00:37.0551986+05:30 0HMJVFADVUNF1:00000027 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:00:37.1109373+05:30 0HMJVFADVUNF1:00000027 [INF] Executed DbCommand ("4"ms) [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]
+WHERE [s].[Id] = @__id_0" (0723d8ff)
+2022-08-16T17:00:49.6735721+05:30 0HMJVFADVUNF1:0000002F [WRN] 
+
+Worker running at: 08/16/2022 11:30:49 +00:00 (0c8ec8e8)
+2022-08-16T17:00:49.6745100+05:30 0HMJVFADVUNF1:0000002F [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:00:49.6764867+05:30 0HMJVFADVUNF1:0000002F [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:00:49.7488404+05:30 0HMJVFADVUNF1:0000002F [INF] Executed DbCommand ("4"ms) [Parameters=["@__searchString_0='?' (Size = 60)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]
+WHERE (@__searchString_0 LIKE N'') OR (CHARINDEX(@__searchString_0, [s].[Name]) > 0)" (0723d8ff)
+2022-08-16T17:00:58.2201823+05:30 0HMJVFADVUNF1:00000035 [WRN] 
+
+Worker running at: 08/16/2022 11:30:58 +00:00 (0c8ec8e8)
+2022-08-16T17:00:58.2211580+05:30 0HMJVFADVUNF1:00000035 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:00:58.2227679+05:30 0HMJVFADVUNF1:00000035 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:00:58.2346563+05:30 0HMJVFADVUNF1:00000035 [INF] Executed DbCommand ("5"ms) [Parameters=["@__studentClass_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]
+WHERE [s].[Class] = @__studentClass_0" (0723d8ff)
+2022-08-16T17:01:48.2608793+05:30 0HMJVFADVUNF1:00000041 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:01:48.2894058+05:30 0HMJVFADVUNF1:00000041 [INF] Executed DbCommand ("3"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (Size = 60), @p3='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Student] ([Class], [DateOfBirth], [Name], [Rating])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Student]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();" (0723d8ff)
+2022-08-16T17:01:48.7750077+05:30 0HMJVFADVUNF1:00000043 [WRN] 
+
+Worker running at: 08/16/2022 11:31:48 +00:00 (0c8ec8e8)
+2022-08-16T17:01:48.7761059+05:30 0HMJVFADVUNF1:00000043 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:01:48.7830389+05:30 0HMJVFADVUNF1:00000043 [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:01:48.7899946+05:30 0HMJVFADVUNF1:00000043 [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:04:30.7339362+05:30 0HMJVFADVUNF2:00000001 [WRN] 
+
+Worker running at: 08/16/2022 11:34:30 +00:00 (0c8ec8e8)
+2022-08-16T17:04:30.7365454+05:30 0HMJVFADVUNF2:00000001 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-16T17:04:30.7397599+05:30 0HMJVFADVUNF2:00000001 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-16T17:04:30.7409877+05:30 0HMJVFADVUNF2:00000001 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]" (0723d8ff)

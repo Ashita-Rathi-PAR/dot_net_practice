@@ -1,0 +1,8 @@
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\bin\Debug\EnumerationTypesApplication.exe.config
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\bin\Debug\EnumerationTypesApplication.exe
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\bin\Debug\EnumerationTypesApplication.pdb
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\obj\Debug\EnumerationTypesApplication.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\obj\Debug\EnumerationTypesApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\obj\Debug\EnumerationTypesApplication.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\obj\Debug\EnumerationTypesApplication.exe
+C:\Users\rathia\source\repos\Practice\EnumerationTypesApplication\obj\Debug\EnumerationTypesApplication.pdb

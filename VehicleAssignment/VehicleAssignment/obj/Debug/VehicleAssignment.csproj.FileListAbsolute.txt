@@ -1,0 +1,17 @@
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\VehicleAssignment.exe.config
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\VehicleAssignment.exe
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\VehicleAssignment.pdb
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\obj\Debug\VehicleAssignment.csproj.AssemblyReference.cache
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\obj\Debug\VehicleAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\obj\Debug\VehicleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\obj\Debug\VehicleAssignment.exe
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\obj\Debug\VehicleAssignment.pdb
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\ChoETL.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\ChoETL.JSON.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\System.CodeDom.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rathia\source\repos\VehicleAssignment\VehicleAssignment\obj\Debug\VehicleAssignment.csproj.CopyComplete

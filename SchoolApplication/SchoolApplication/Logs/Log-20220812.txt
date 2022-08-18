@@ -1,0 +1,31 @@
+2022-08-12T18:15:31.4242360+05:30  [INF] Now listening on: "https://localhost:7201" (d826f4b8)
+2022-08-12T18:15:31.4285191+05:30  [INF] Now listening on: "http://localhost:5201" (d826f4b8)
+2022-08-12T18:15:31.4414620+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-12T18:15:31.4416495+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-12T18:15:31.4416829+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\SchoolApplication\SchoolApplication\" (b5d60022)
+2022-08-12T18:15:38.0145631+05:30  [INF] Now listening on: "https://localhost:7201" (d826f4b8)
+2022-08-12T18:15:38.0175401+05:30  [INF] Now listening on: "http://localhost:5201" (d826f4b8)
+2022-08-12T18:15:38.0218175+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-12T18:15:38.0219056+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-12T18:15:38.0219342+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\SchoolApplication\SchoolApplication\" (b5d60022)
+2022-08-12T18:15:38.3890700+05:30 0HMJSC27CORK9:00000001 [INF] 
+
+Hello
+
+ (1a8a7fb3)
+2022-08-12T18:15:42.8449012+05:30 0HMJSC27CORK9:00000013 [WRN] 
+
+Worker running at: 08/12/2022 12:45:42 +00:00 (0c8ec8e8)
+2022-08-12T18:15:43.1716615+05:30 0HMJSC27CORK9:00000013 [INF] Entity Framework Core "6.0.7" initialized '"StudentContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None" (d2805559)
+2022-08-12T18:15:43.4345754+05:30 0HMJSC27CORK9:00000013 [WRN] The query uses the 'Distinct' operator after applying an ordering. If there are any row limiting operation used before 'Distinct' and after ordering then ordering will be used for it. Ordering(s) will be erased after 'Distinct' and results afterwards would be unordered. (4fd26fa1)
+2022-08-12T18:15:44.7076334+05:30 0HMJSC27CORK9:00000013 [INF] Executed DbCommand ("22"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT DISTINCT [s].[Class]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-12T18:15:44.7500618+05:30 0HMJSC27CORK9:00000013 [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [s].[Id], [s].[Class], [s].[DateOfBirth], [s].[Name], [s].[Rating]
+FROM [Student] AS [s]" (0723d8ff)
+2022-08-12T18:16:01.3020347+05:30 0HMJSC27CORK9:0000001D [INF] 
+
+Hello
+
+ (1a8a7fb3)
