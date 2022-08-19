@@ -1,0 +1,119 @@
+2022-08-19T12:32:29.2904976+05:30  [INF] Now listening on: "https://localhost:7147" (d826f4b8)
+2022-08-19T12:32:29.2928051+05:30  [INF] Now listening on: "http://localhost:5147" (d826f4b8)
+2022-08-19T12:32:29.2955042+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-19T12:32:29.2955885+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-19T12:32:29.2956135+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\ServiceRepositoryPattern\ServiceRepositoryPattern\" (b5d60022)
+2022-08-19T12:32:29.6721870+05:30 0HMK1M33U2F3P:00000001 [INF] 
+
+Hello
+
+ (1a8a7fb3)
+2022-08-19T12:32:33.8072839+05:30 0HMK1M33U2F3P:00000013 [WRN] 
+
+Food Controller running at: 08/19/2022 07:02:33 +00:00 (9f013e84)
+2022-08-19T12:32:52.9829920+05:30 0HMK1M33U2F3P:0000001B [WRN] No store type was specified for the decimal property '"SalePrice"' on entity type '"FoodItem"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-19T12:32:52.9833781+05:30 0HMK1M33U2F3P:0000001B [WRN] No store type was specified for the decimal property '"UnitPrice"' on entity type '"FoodItem"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-19T12:32:52.9835540+05:30 0HMK1M33U2F3P:0000001B [WRN] No store type was specified for the decimal property '"SalePrice"' on entity type '"Ticket"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-19T12:32:52.9837034+05:30 0HMK1M33U2F3P:0000001B [WRN] No store type was specified for the decimal property '"StudioCutPercentage"' on entity type '"Ticket"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-19T12:32:53.0657593+05:30 0HMK1M33U2F3P:0000001B [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:32:55.6489712+05:30 0HMK1M33U2F3P:0000001B [INF] Executed DbCommand ("21"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:35:54.5962786+05:30 0HMK1M33U2F3Q:0000000B [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:35:54.7217619+05:30 0HMK1M33U2F3Q:0000000B [INF] Executed DbCommand ("19"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:35:54.7881163+05:30 0HMK1M33U2F3Q:0000000D [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:35:54.7899014+05:30 0HMK1M33U2F3Q:0000000D [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:36:05.4925846+05:30 0HMK1M33U2F3Q:00000019 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:05.4958197+05:30 0HMK1M33U2F3Q:00000019 [INF] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:36:05.5054698+05:30 0HMK1M33U2F3Q:0000001B [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:05.5066345+05:30 0HMK1M33U2F3Q:0000001B [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:36:21.8192981+05:30 0HMK1M33U2F3Q:00000027 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:21.8215488+05:30 0HMK1M33U2F3Q:00000027 [INF] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:36:21.9075686+05:30 0HMK1M33U2F3Q:00000029 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:21.9276139+05:30 0HMK1M33U2F3Q:00000029 [INF] Executed DbCommand ("20"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:36:41.5396241+05:30 0HMK1M33U2F3Q:00000035 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:41.5514841+05:30 0HMK1M33U2F3Q:00000035 [INF] Executed DbCommand ("11"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:36:41.6045927+05:30 0HMK1M33U2F3Q:00000037 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:41.6136674+05:30 0HMK1M33U2F3Q:00000037 [INF] Executed DbCommand ("9"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:36:58.2342069+05:30 0HMK1M33U2F3Q:00000043 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:58.2360547+05:30 0HMK1M33U2F3Q:00000043 [INF] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:36:58.2406374+05:30 0HMK1M33U2F3Q:00000045 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:36:58.2423876+05:30 0HMK1M33U2F3Q:00000045 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:37:10.5616239+05:30 0HMK1M33U2F3Q:00000051 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:37:10.5655728+05:30 0HMK1M33U2F3Q:00000051 [INF] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:37:10.5715820+05:30 0HMK1M33U2F3Q:00000053 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:37:10.5726784+05:30 0HMK1M33U2F3Q:00000053 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:37:27.2473276+05:30 0HMK1M33U2F3Q:0000005F [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:37:27.2487419+05:30 0HMK1M33U2F3Q:0000005F [INF] Executed DbCommand ("0"ms) [Parameters=["@p0='?' (Size = 60), @p1='?' (DbType = Int32), @p2='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [FoodItem] ([Name], [Quantity], [SalePrice], [UnitPrice])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [ID]
+FROM [FoodItem]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity();" (0723d8ff)
+2022-08-19T12:37:27.2535537+05:30 0HMK1M33U2F3Q:00000061 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-19T12:37:27.2543757+05:30 0HMK1M33U2F3Q:00000061 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-19T12:37:36.6446407+05:30 0HMK1M33U2F3Q:00000067 [WRN] 
+
+Food Controller running at: 08/19/2022 07:07:36 +00:00 (9f013e84)
+2022-08-19T12:40:45.1348740+05:30  [INF] Now listening on: "https://localhost:7147" (d826f4b8)
+2022-08-19T12:40:45.1369314+05:30  [INF] Now listening on: "http://localhost:5147" (d826f4b8)
+2022-08-19T12:40:45.1400877+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-19T12:40:45.1401857+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-19T12:40:45.1402094+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\ServiceRepositoryPattern\ServiceRepositoryPattern\" (b5d60022)
+2022-08-19T12:40:45.7054988+05:30 0HMK1M7NQ1HQI:00000001 [WRN] 
+
+Food Controller running at: 08/19/2022 07:10:45 +00:00 (9f013e84)
+2022-08-19T12:40:49.1597112+05:30 0HMK1M7NQ1HQI:00000009 [WRN] 
+
+Food Controller running at: 08/19/2022 07:10:49 +00:00 (9f013e84)
