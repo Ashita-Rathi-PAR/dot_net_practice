@@ -1,0 +1,60 @@
+2022-08-22T11:32:04.2144607+05:30  [INF] Now listening on: "https://localhost:7147" (d826f4b8)
+2022-08-22T11:32:04.2192080+05:30  [INF] Now listening on: "http://localhost:5147" (d826f4b8)
+2022-08-22T11:32:04.2323141+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-22T11:32:04.2338002+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-22T11:32:04.2351823+05:30  [INF] Content root path: "C:\Users\rathia\source\MVC\ServiceRepositoryPattern\ServiceRepositoryPattern\" (b5d60022)
+2022-08-22T11:32:05.4706202+05:30 0HMK40FB6G9JQ:00000001 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'ServiceRepositoryPattern.Controllers.FoodItemsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method8(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-08-22T11:32:41.2123166+05:30  [INF] Now listening on: "https://localhost:7147" (d826f4b8)
+2022-08-22T11:32:41.2167040+05:30  [INF] Now listening on: "http://localhost:5147" (d826f4b8)
+2022-08-22T11:32:41.2262773+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-22T11:32:41.2276228+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-22T11:32:41.2290318+05:30  [INF] Content root path: "C:\Users\rathia\source\MVC\ServiceRepositoryPattern\ServiceRepositoryPattern\" (b5d60022)
+2022-08-22T11:32:42.2393740+05:30 0HMK40FMA4N6M:00000001 [INF] 
+All Food Items List!!
+ (872897ca)
+2022-08-22T11:32:42.6184544+05:30 0HMK40FMA4N6M:00000001 [WRN] No store type was specified for the decimal property '"SalePrice"' on entity type '"FoodItem"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:32:42.6224778+05:30 0HMK40FMA4N6M:00000001 [WRN] No store type was specified for the decimal property '"UnitPrice"' on entity type '"FoodItem"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:32:42.6244465+05:30 0HMK40FMA4N6M:00000001 [WRN] No store type was specified for the decimal property '"SalePrice"' on entity type '"Ticket"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:32:42.6260406+05:30 0HMK40FMA4N6M:00000001 [WRN] No store type was specified for the decimal property '"StudioCutPercentage"' on entity type '"Ticket"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:32:42.7628736+05:30 0HMK40FMA4N6M:00000001 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-22T11:32:44.6946431+05:30 0HMK40FMA4N6M:00000001 [INF] Executed DbCommand ("42"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
+2022-08-22T11:32:54.5414290+05:30 0HMK40FMA4N6M:00000013 [WRN] 
+
+Food Controller running at: 08/22/2022 06:02:54 +00:00 (9f013e84)
+2022-08-22T11:32:54.5434121+05:30 0HMK40FMA4N6M:00000013 [FTL] Food Service Get All Sold Method Called (b1e6124d)
+2022-08-22T11:34:33.6193849+05:30  [INF] Now listening on: "https://localhost:7147" (d826f4b8)
+2022-08-22T11:34:33.6240472+05:30  [INF] Now listening on: "http://localhost:5147" (d826f4b8)
+2022-08-22T11:34:33.6305085+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-22T11:34:33.6362261+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-22T11:34:33.6375791+05:30  [INF] Content root path: "C:\Users\rathia\source\MVC\ServiceRepositoryPattern\ServiceRepositoryPattern\" (b5d60022)
+2022-08-22T11:34:34.6633579+05:30 0HMK40GNOQDNV:00000001 [INF] 
+All Food Items List!!
+ (872897ca)
+2022-08-22T11:34:35.0649019+05:30 0HMK40GNOQDNV:00000001 [WRN] No store type was specified for the decimal property '"SalePrice"' on entity type '"FoodItem"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:34:35.0669459+05:30 0HMK40GNOQDNV:00000001 [WRN] No store type was specified for the decimal property '"UnitPrice"' on entity type '"FoodItem"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:34:35.0687544+05:30 0HMK40GNOQDNV:00000001 [WRN] No store type was specified for the decimal property '"SalePrice"' on entity type '"Ticket"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:34:35.0709911+05:30 0HMK40GNOQDNV:00000001 [WRN] No store type was specified for the decimal property '"StudioCutPercentage"' on entity type '"Ticket"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'. (fff75eb8)
+2022-08-22T11:34:35.2133145+05:30 0HMK40GNOQDNV:00000001 [INF] Entity Framework Core "6.0.8" initialized '"ServiceRepositoryPatternContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-22T11:34:36.1800235+05:30 0HMK40GNOQDNV:00000001 [INF] Executed DbCommand ("40"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [f].[ID], [f].[Name], [f].[Quantity], [f].[SalePrice], [f].[UnitPrice]
+FROM [FoodItem] AS [f]" (0723d8ff)
