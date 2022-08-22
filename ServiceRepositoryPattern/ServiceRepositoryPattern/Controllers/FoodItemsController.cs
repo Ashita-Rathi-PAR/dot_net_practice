@@ -14,14 +14,17 @@ namespace ServiceRepositoryPattern.Controllers
     public class FoodItemsController : Controller
     {
         private readonly ServiceRepositoryPatternContext _context;
+        private readonly ILogger<FoodItemsController> _logger;
 
-        public FoodItemsController(ServiceRepositoryPatternContext context)
+        public FoodItemsController(ServiceRepositoryPatternContext context, ILogger<FoodItemsController> logger)
         {
             _context = context;
+            _logger = logger;
         }
 
         public async Task<IActionResult> Index()
         {
+            _logger.LogInformation("\nAll Food Items List!!\n");
             return _context.FoodItem != null ?
                         View(await _context.FoodItem.ToListAsync()) :
                         Problem("Entity set 'ServiceRepositoryPatternContext.FoodItem'  is null.");
@@ -29,6 +32,7 @@ namespace ServiceRepositoryPattern.Controllers
 
         public async Task<IActionResult> Details(int? id)
         {
+            _logger.LogInformation("\nDetails of a particular Food Item\n");
             if (id == null || _context.FoodItem == null)
             {
                 return NotFound();
@@ -46,6 +50,7 @@ namespace ServiceRepositoryPattern.Controllers
 
         public IActionResult Create()
         {
+            _logger.LogInformation("\nCreate Food Items\n");
             return View();
         }
 
@@ -53,6 +58,7 @@ namespace ServiceRepositoryPattern.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ID,Name,SalePrice,UnitPrice,Quantity")] FoodItem foodItem)
         {
+            _logger.LogInformation("\nCreate Food Items\n");
             if (ModelState.IsValid)
             {
                 _context.Add(foodItem);
@@ -64,6 +70,7 @@ namespace ServiceRepositoryPattern.Controllers
 
         public async Task<IActionResult> Edit(int? id)
         {
+            _logger.LogInformation("\nEdit the food items details\n");
             if (id == null || _context.FoodItem == null)
             {
                 return NotFound();
@@ -81,6 +88,7 @@ namespace ServiceRepositoryPattern.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ID,Name,SalePrice,UnitPrice,Quantity")] FoodItem foodItem)
         {
+            _logger.LogInformation("\nEdit the food items details\n");
             if (id != foodItem.ID)
             {
                 return NotFound();
@@ -111,6 +119,7 @@ namespace ServiceRepositoryPattern.Controllers
 
         public async Task<IActionResult> Delete(int? id)
         {
+            _logger.LogInformation("\nDelete the food items details\n");
             if (id == null || _context.FoodItem == null)
             {
                 return NotFound();
@@ -130,6 +139,7 @@ namespace ServiceRepositoryPattern.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            _logger.LogInformation("\nDelete Confirmed the food items details\n");
             if (_context.FoodItem == null)
             {
                 return Problem("Entity set 'ServiceRepositoryPatternContext.FoodItem'  is null.");
@@ -146,6 +156,7 @@ namespace ServiceRepositoryPattern.Controllers
 
         private bool FoodItemExists(int id)
         {
+            _logger.LogInformation("\ncheck if food items exists\n");
             return (_context.FoodItem?.Any(e => e.ID == id)).GetValueOrDefault();
         }
     }

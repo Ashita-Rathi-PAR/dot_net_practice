@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMQ6ii5QYWm8pN4aDvj6lIXK+FuD4dwDENY8qmMhGtw1/HnIzj6PHlD+g3ZequtfvFgrxQHDGmlq2rxMWprwvA==",
+  "dgSpecHash": "+wBdtbhhFmdJDCCQpz7w5q/YG5XgSXUcpUR2AFTRRlk26ddhsvikTJbWehan0HAMDBx5A+7YTRwlJwhko2U3Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rathia\\source\\repos\\ServiceRepositoryPattern\\ServiceRepositoryPattern\\ServiceRepositoryPattern.csproj",
+  "projectFilePath": "C:\\Users\\rathia\\source\\MVC\\ServiceRepositoryPattern\\ServiceRepositoryPattern\\ServiceRepositoryPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rathia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rathia\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServiceRepositoryPattern
 build_property.RootNamespace = ServiceRepositoryPattern
-build_property.ProjectDir = C:\Users\rathia\source\repos\ServiceRepositoryPattern\ServiceRepositoryPattern\
+build_property.ProjectDir = C:\Users\rathia\source\MVC\ServiceRepositoryPattern\ServiceRepositoryPattern\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rathia\source\repos\ServiceRepositoryPattern\ServiceRepositoryPattern
+build_property.MSBuildProjectDirectory = C:\Users\rathia\source\MVC\ServiceRepositoryPattern\ServiceRepositoryPattern
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Create.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Delete.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Details.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Edit.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Index.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/FoodItems/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEl0ZW1zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Food/Index.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Food/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Home/Index.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Home/Privacy.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Shared/Error.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Ticket/Index.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Ticket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/_ViewImports.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/_ViewStart.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rathia/source/repos/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Shared/_Layout.cshtml]
+[C:/Users/rathia/source/MVC/ServiceRepositoryPattern/ServiceRepositoryPattern/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-krhok16g9w

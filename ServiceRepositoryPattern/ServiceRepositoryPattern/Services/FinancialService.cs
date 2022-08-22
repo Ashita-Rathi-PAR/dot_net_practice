@@ -7,21 +7,24 @@ namespace ServiceRepositoryPattern.Services
     {
         private readonly ITicketRepository _ticketRepo;
         private readonly IFoodRepository _foodRepo;
+        private readonly ILogger<FinancialsService> _logger;
 
         public FinancialsService(ITicketRepository ticketRepo,
-                                    IFoodRepository foodRepo)
+                                    IFoodRepository foodRepo,
+                                    ILogger<FinancialsService> logger)
         {
             _ticketRepo = ticketRepo;
             _foodRepo = foodRepo;
+            _logger = logger;
         }
 
         public FinancialStats GetStats()
         {
+            _logger.LogDebug("\nFinancial Service Get Stats Methods Called\n");
             FinancialStats stats = new FinancialStats();
             var foodSold = _foodRepo.GetAllSold();
             var ticketsSold = _ticketRepo.GetAllSold();
 
-            //Calculate Average Stats
             stats.AverageTicketProfit =
               ticketsSold.Sum(x => x.Profit) / ticketsSold.Sum(x => x.Quantity);
             stats.AverageFoodItemProfit =
