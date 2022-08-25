@@ -1,0 +1,116 @@
+2022-08-25T12:18:21.4819089+05:30  [INF] Now listening on: "https://localhost:7025" (d826f4b8)
+2022-08-25T12:18:21.4855829+05:30  [INF] Now listening on: "http://localhost:5025" (d826f4b8)
+2022-08-25T12:18:21.4912375+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-08-25T12:18:21.4914191+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-08-25T12:18:21.4914606+05:30  [INF] Content root path: "C:\Users\rathia\source\repos\CompanyApp\CompanyApp\" (b5d60022)
+2022-08-25T12:18:24.0549069+05:30 0HMK6CN6JQIBC:00000001 [INF] Running at: 08/25/2022 06:48:24 +00:00 (711ef912)
+2022-08-25T12:18:24.9000641+05:30 0HMK6CN6JQIBC:00000001 [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:27.5801780+05:30 0HMK6CN6JQIBC:00000001 [INF] Executed DbCommand ("52"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [e].[Id], [e].[Age], [e].[ExperienceYears], [e].[Gender], [e].[Name]
+FROM [Employee] AS [e]" (0723d8ff)
+2022-08-25T12:18:41.8984675+05:30 0HMK6CN6JQIBC:0000001D [INF] Employee Created:"Ice cream" (41ea08c6)
+2022-08-25T12:18:41.9002271+05:30 0HMK6CN6JQIBC:0000001D [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:42.0466003+05:30 0HMK6CN6JQIBC:0000001D [INF] Executed DbCommand ("26"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Employee] ([Age], [ExperienceYears], [Gender], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [Employee]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();" (0723d8ff)
+2022-08-25T12:18:42.1003294+05:30 0HMK6CN6JQIBC:0000001F [INF] Running at: 08/25/2022 06:48:42 +00:00 (711ef912)
+2022-08-25T12:18:42.1576805+05:30 0HMK6CN6JQIBC:0000001F [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:42.1595090+05:30 0HMK6CN6JQIBC:0000001F [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [e].[Id], [e].[Age], [e].[ExperienceYears], [e].[Gender], [e].[Name]
+FROM [Employee] AS [e]" (0723d8ff)
+2022-08-25T12:18:45.3404621+05:30 0HMK6CN6JQIBC:00000025 [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:45.4365399+05:30 0HMK6CN6JQIBC:00000025 [INF] Executed DbCommand ("1"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [e].[Id], [e].[Age], [e].[ExperienceYears], [e].[Gender], [e].[Name]
+FROM [Employee] AS [e]
+WHERE [e].[Id] = @__p_0" (0723d8ff)
+2022-08-25T12:18:47.6109241+05:30 0HMK6CN6JQIBC:0000002B [INF] Employee Information Edited:"Dairy Milk" (4509cbb0)
+2022-08-25T12:18:47.6119798+05:30 0HMK6CN6JQIBC:0000002B [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:47.6282061+05:30 0HMK6CN6JQIBC:0000002B [ERR] Failed executing DbCommand ("5"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p4='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Employee] ([Id], [Age], [ExperienceYears], [Gender], [Name])
+VALUES (@p0, @p1, @p2, @p3, @p4);" (627a98df)
+2022-08-25T12:18:47.6899429+05:30 0HMK6CN6JQIBC:0000002B [ERR] An exception occurred in the database while saving changes for context type '"CompanyApp.Data.EmployeeContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Employee' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7aebdf26-2c0a-498c-9f50-17ba21479c81
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__104_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Employee' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7aebdf26-2c0a-498c-9f50-17ba21479c81
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__104_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at CompanyApp.Repository.EmployeeRepository.Save() in C:\Users\rathia\source\repos\CompanyApp\CompanyApp\Repository\EmployeeRepository.cs:line 46
+   at CompanyApp.Repository.EmployeeRepository.AddEmployee(Employee employee) in C:\Users\rathia\source\repos\CompanyApp\CompanyApp\Repository\EmployeeRepository.cs:line 22
+   at CompanyApp.Service.EmployeeService.AddEmployee(Employee employee) in C:\Users\rathia\source\repos\CompanyApp\CompanyApp\Service\EmployeeService.cs:line 18
+   at CompanyApp.Controllers.EmployeeController.Edit(Employee employee) in C:\Users\rathia\source\repos\CompanyApp\CompanyApp\Controllers\EmployeeController.cs:line 65
+   at lambda_method129(Closure , Object , Object[] )
+2022-08-25T12:18:50.0095874+05:30 0HMK6CN6JQIBC:00000031 [INF] Running at: 08/25/2022 06:48:50 +00:00 (711ef912)
+2022-08-25T12:18:50.0105189+05:30 0HMK6CN6JQIBC:00000031 [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:50.0123228+05:30 0HMK6CN6JQIBC:00000031 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [e].[Id], [e].[Age], [e].[ExperienceYears], [e].[Gender], [e].[Name]
+FROM [Employee] AS [e]" (0723d8ff)
+2022-08-25T12:18:52.2543791+05:30 0HMK6CN6JQIBC:00000037 [WRN] Details of Employee:1 (4ca2f351)
+2022-08-25T12:18:52.2550246+05:30 0HMK6CN6JQIBC:00000037 [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:18:52.2588465+05:30 0HMK6CN6JQIBC:00000037 [INF] Executed DbCommand ("0"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [e].[Id], [e].[Age], [e].[ExperienceYears], [e].[Gender], [e].[Name]
+FROM [Employee] AS [e]
+WHERE [e].[Id] = @__p_0" (0723d8ff)
+2022-08-25T12:19:42.8277969+05:30 0HMK6CN6JQIBC:0000003D [INF] Running at: 08/25/2022 06:49:42 +00:00 (711ef912)
+2022-08-25T12:19:42.8292931+05:30 0HMK6CN6JQIBC:0000003D [INF] Entity Framework Core "6.0.8" initialized '"EmployeeContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.8"' with options: "None" (d2805559)
+2022-08-25T12:19:42.8311241+05:30 0HMK6CN6JQIBC:0000003D [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [e].[Id], [e].[Age], [e].[ExperienceYears], [e].[Gender], [e].[Name]
+FROM [Employee] AS [e]" (0723d8ff)
